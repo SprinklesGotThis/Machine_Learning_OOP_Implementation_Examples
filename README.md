@@ -6,8 +6,10 @@ This Jupyter Notebook collection is designed to support students implement [Prog
 > The configuration for VSCode and Codespaces have been built into this repository. To ensure the necessary decencies are installed and configured it is recommended that a GitHub Codespace is used for the Advanced Neural Network and Decision Tree implementations.
 
 ---
-
 ## Demonstrations
+
+### New Demo
+MNIST Neural Networks - MNIST Neural Network Demo
 
 1. [OOP Linear Regression Implementation](examples/1.OOP_Single_Feature_Linear_Regression.ipynb).
 2. [OOP Multiple Feature Linear Regression Implementation](examples/2.OOP_Multi_Feature_Linear_Regression.ipynb).
